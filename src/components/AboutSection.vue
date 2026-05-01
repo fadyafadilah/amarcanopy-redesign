@@ -101,9 +101,9 @@
 import { ref, onMounted, onUnmounted } from 'vue'
 
 const slides = [
-  '/src/assets/About1.webp',
-  '/src/assets/About2.webp',
-  '/src/assets/About3.webp'
+  '/images/About1.webp',
+  '/images/About2.webp',
+  '/images/About3.webp'
 ]
 
 const current = ref(0)

@@ -65,42 +65,42 @@
 import { MapPinIcon } from '@heroicons/vue/24/solid'
 const portfolios = [
   {
-    image: '/src/assets/Portfolio1.webp',
+    image: '/images/Portfolio1.webp',
     category: 'Canopy Kain',
     title: 'Canopy Rumah Minimalis',
     location: 'Jakarta Selatan',
     desc: 'Pemasangan canopy kain dengan desain modern untuk area carport rumah.'
   },
   {
-    image: '/src/assets/Portfolio2.webp',
+    image: '/images/Portfolio2.webp',
     category: 'Membrane',
     title: 'Canopy Membrane Perumahan',
     location: 'Bandung',
     desc: 'Struktur membrane elegan untuk area outdoor cafe agar nyaman dan estetik.'
   },
   {
-    image: '/src/assets/Portfolio3.webp',
+    image: '/images/Portfolio3.webp',
     category: 'Awning',
     title: 'Awning Toko Ruko',
     location: 'Surabaya',
     desc: 'Awning gulung praktis untuk perlindungan panas dan hujan di area toko.'
   },
   {
-    image: '/src/assets/Portfolio4.webp',
+    image: '/images/Portfolio4.webp',
     category: 'Tenda Membrane',
     title: 'Tenda Membrane Kolam Renang',
     location: 'Depok',
     desc: 'Solusi canopy kain untuk area santai selesai berenang dengan desain modern dan tahan cuaca.'
   },
   {
-    image: '/src/assets/Portfolio5.webp',
+    image: '/images/Portfolio5.webp',
     category: 'Komersial',
     title: 'Area Parkir Kantor',
     location: 'Tangerang',
     desc: 'Pemasangan canopy besar untuk area parkir kantor dengan struktur kuat.'
   },
   {
-    image: '/src/assets/Portfolio6.webp',
+    image: '/images/Portfolio6.webp',
     category: 'Canopy Kain',
     title: 'Canopy Kain Belakang Rumah',
     location: 'Sukabumi',
